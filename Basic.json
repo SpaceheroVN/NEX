@@ -1,1 +1,227 @@
-
+[
+    {
+        "name": "Chrome",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/dy7SXPXk?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Discord",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/W3Q3V8Cp?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Winrar_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/jSAdDQ9f?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "7-Zip_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/svSd4Gr4?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "OBS",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/WJjrY7No?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Avast",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/tXwmHrBv?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Lunar Client",
+        "type": "game",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/4GKSznxG?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Net Time",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/o9hQbDKe?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Git",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/WuPNoR2B?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "VSCode",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/3B4UbvMG?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "VLC",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/F75PBPrn?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2005_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/h1YASnbn?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2005_x32",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/zaKjuNAK?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2008_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/VMN6pQzf?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2010_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/aA2MbuJG?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2012_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/vg5h8XNY?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2013_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/xuerpvpj?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2015-2022_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/cQ3hZavS?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2008_x32",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/VCqAovFp?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2010_x32",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/G9yDZQT7?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2012_x32",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/7WS277vt?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2013_x32",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/dgZJudh7?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2015-2022_x32",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/5R7x8Azy?download",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": ".NET 8_x64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.411/dotnet-sdk-8.0.411-win-x64.exe",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": ".NET 9_X64",
+        "type": "app",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x64.exe%0A",
+            "silent_args": ""
+        }
+    }
+]
