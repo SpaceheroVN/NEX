@@ -230,16 +230,6 @@
         }
     },
     {
-        "name": "CCleaner",
-        "type": "app",
-        "category": "Utilities",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/4Qh4MnGs?download",
-            "silent_args": "/S"
-        }
-    },
-    {
         "name": "Net Time",
         "type": "app",
         "category": "Utilities",
