@@ -320,7 +320,67 @@
         }
     },
     {
-        "name": "Visual C++ 2005-2022 Redistributable (x64)",
+        "name": "Visual C++ Redistributable 2005_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/h1YASnbn?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2005_x32",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/zaKjuNAK?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2008_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/VMN6pQzf?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2010_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/aA2MbuJG?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2012_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/vg5h8XNY?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2013_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/xuerpvpj?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2015-2022_x64",
         "type": "app",
         "category": "VC++ Redistributables",
         "source": {
@@ -330,7 +390,46 @@
         }
     },
     {
-        "name": "Visual C++ 2005-2022 Redistributable (x86)",
+        "name": "Visual C++ Redistributable 2008_x32",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/VCqAovFp?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2010_x32",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/G9yDZQT7?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2012_x32",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/7WS277vt?download",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2013_x32",
+        "type": "app", "category": "VC++ Redistributables", 
+        "source": { 
+            "type": "Link", 
+            "value": "https://pixeldrain.com/api/file/dgZJudh7?download", 
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2015-2022_x32",
         "type": "app",
         "category": "VC++ Redistributables",
         "source": {
