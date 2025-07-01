@@ -1,305 +1,5 @@
 [
     {
-        "name": "7-Zip (x64)",
-        "type": "app",
-        "category": "Compression",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/svSd4Gr4?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "AnyDesk",
-        "type": "app",
-        "category": "Utilities",
-        "source": {
-            "type": "Link",
-            "value": "https://download.anydesk.com/AnyDesk.exe",
-            "silent_args": "--silent"
-        }
-    },
-    {
-        "name": "Audacity",
-        "type": "app",
-        "category": "Media",
-        "source": {
-            "type": "Link",
-            "value": "https://muse-cdn.com/Audacity_Installer_via_MuseHub.exe",
-            "silent_args": "/VERYSILENT /NORESTART"
-        }
-    },
-    {
-        "name": "AVG AntiVirus Free",
-        "type": "app",
-        "category": "Security",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/Rg2rgNZe?download",
-            "silent_args": "/verysilent /norestart"
-        }
-    },
-    {
-        "name": "Avast Free Antivirus",
-        "type": "app",
-        "category": "Security",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/tXwmHrBv?download",
-            "silent_args": "/verysilent /norestart"
-        }
-    },
-    {
-        "name": "Brave Browser",
-        "type": "app",
-        "category": "Web Browsers",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/91fK2u3N?download",
-            "silent_args": "--silent"
-        }
-    },
-    {
-        "name": "CCleaner",
-        "type": "app",
-        "category": "Utilities",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/4Qh4MnGs?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Cursor",
-        "type": "app",
-        "category": "Developer Tools",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/aEdsEyQe?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Discord",
-        "type": "app",
-        "category": "Messaging",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/W3Q3V8Cp?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Firefox",
-        "type": "app",
-        "category": "Web Browsers",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/Bz6CmaGZ?download",
-            "silent_args": "-ms"
-        }
-    },
-    {
-        "name": "Garena",
-        "type": "app",
-        "category": "Games",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/wN6WcRoP?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Git",
-        "type": "app",
-        "category": "Developer Tools",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/WuPNoR2B?download",
-            "silent_args": "/VERYSILENT /NORESTART"
-        }
-    },
-    {
-        "name": "Google Chrome",
-        "type": "app",
-        "category": "Web Browsers",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/dy7SXPXk?download",
-            "silent_args": "/silent /install"
-        }
-    },
-    {
-        "name": "K-Lite Codec Pack (Standard)",
-        "type": "app",
-        "category": "Media",
-        "source": {
-            "type": "Link",
-            "value": "https://files2.codecguide.com/K-Lite_Codec_Pack_1905_Standard.exe",
-            "silent_args": "/verysilent"
-        }
-    },
-    {
-        "name": "Lunar Client",
-        "type": "game",
-        "category": "Games",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/4GKSznxG?download",
-            "silent_args": ""
-        }
-    },
-    {
-        "name": "Microsoft Edge",
-        "type": "app",
-        "category": "Web Browsers",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/T6JWXNv4?download",
-            "silent_args": "/silent /install"
-        }
-    },
-    {
-        "name": "Microsoft Teams",
-        "type": "app",
-        "category": "Messaging",
-        "source": {
-            "type": "Link",
-            "value": "https://statics.teams.cdn.office.net/evergreen-assets/DesktopClient/MSTeamsSetup.exe",
-            "silent_args": "-s"
-        }
-    },
-    {
-        "name": "Mini World",
-        "type": "game",
-        "category": "Games",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/1SuLBGf5?download",
-            "silent_args": ""
-        }
-    },
-    {
-        "name": "Net Time",
-        "type": "app",
-        "category": "Utilities",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/o9hQbDKe?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "OBS Studio",
-        "type": "app",
-        "category": "Media",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/WJjrY7No?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Opera Browser",
-        "type": "app",
-        "category": "Web Browsers",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/xa62P8qH?download",
-            "silent_args": "--silent"
-        }
-    },
-    {
-        "name": "PeaZip",
-        "type": "app",
-        "category": "Compression",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/6Yrrv1xb?download",
-            "silent_args": "/VERYSILENT"
-        }
-    },
-    {
-        "name": "Spotify",
-        "type": "app",
-        "category": "Media",
-        "source": {
-            "type": "Link",
-            "value": "https://download.scdn.co/SpotifySetup.exe",
-            "silent_args": "/silent"
-        }
-    },
-    {
-        "name": "TeamViewer",
-        "type": "app",
-        "category": "Utilities",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/sgXNXw42?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "TeamViewer QuickSupport",
-        "type": "app",
-        "category": "Utilities",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/utnKb764?download",
-            "silent_args": ""
-        }
-    },
-    {
-        "name": "Valorant",
-        "type": "game",
-        "category": "Games",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/5dRAXiUb?download",
-            "silent_args": ""
-        }
-    },
-    {
-        "name": "VLC Media Player",
-        "type": "app",
-        "category": "Media",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/F75PBPrn?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "VS Code",
-        "type": "app",
-        "category": "Developer Tools",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/3B4UbvMG?download",
-            "silent_args": "/VERYSILENT /MERGETASKS=!runcode"
-        }
-    },
-    {
-        "name": "WinRAR (x64)",
-        "type": "app",
-        "category": "Compression",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/jSAdDQ9f?download",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Zoom",
-        "type": "app",
-        "category": "Messaging",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/Yg4YgXWf?download",
-            "silent_args": "/quiet"
-        }
-    },
-    {
         "name": ".NET Desktop Runtime 8",
         "type": "app",
         "category": ".NET",
@@ -320,12 +20,262 @@
         }
     },
     {
+        "name": "7-Zip (x64)",
+        "type": "app",
+        "category": "Compression",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Compression/7z2409-x64.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "PeaZip",
+        "type": "app",
+        "category": "Compression",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Compression/peazip-10.5.0.WIN64.exe",
+            "silent_args": "/VERYSILENT"
+        }
+    },
+    {
+        "name": "WinRAR (x64)",
+        "type": "app",
+        "category": "Compression",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Compression/winrar-x64-712.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Cursor",
+        "type": "app",
+        "category": "Developer Tools",
+        "source": {
+            "type": "Link",
+            "value": "https://downloads.cursor.com/production/5b19bac7a947f54e4caa3eb7e4c5fbf832389853/win32/x64/user-setup/CursorUserSetup-x64-1.1.6.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Git (x64)",
+        "type": "app",
+        "category": "Developer Tools",
+        "source": {
+            "type": "Link",
+            "value": "https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe",
+            "silent_args": "/VERYSILENT /NORESTART"
+        }
+    },
+    {
+        "name": "VS Code",
+        "type": "app",
+        "category": "Developer Tools",
+        "source": {
+            "type": "Link",
+            "value": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+            "silent_args": "/VERYSILENT /MERGETASKS=!runcode"
+        }
+    },
+    {
+        "name": "Garena",
+        "type": "app",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://cdn.gxx.garenanow.com/gxx/pc/installer/Garena-v2.0.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Lunar Client",
+        "type": "game",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Games/Lunar%20Client%20-%20Installer.exe",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Mini World",
+        "type": "game",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://mwu-cdn2.miniworldgame.com/install/1/410/miniworld_universal_1.2.0_410.exe",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Valorant",
+        "type": "game",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Games/miniworld_universal_1.2.0_410.exe",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Audacity",
+        "type": "app",
+        "category": "Media",
+        "source": {
+            "type": "Link",
+            "value": "https://muse-cdn.com/Audacity_Installer_via_MuseHub.exe",
+            "silent_args": "/VERYSILENT /NORESTART"
+        }
+    },
+    {
+        "name": "K-Lite Codec Pack (Standard)",
+        "type": "app",
+        "category": "Media",
+        "source": {
+            "type": "Link",
+            "value": "https://files2.codecguide.com/K-Lite_Codec_Pack_1905_Standard.exe",
+            "silent_args": "/verysilent"
+        }
+    },
+    {
+        "name": "OBS Studio",
+        "type": "app",
+        "category": "Media",
+        "source": {
+            "type": "Link",
+            "value": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0.3-Windows-Installer.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Spotify",
+        "type": "app",
+        "category": "Media",
+        "source": {
+            "type": "Link",
+            "value": "https://download.scdn.co/SpotifySetup.exe",
+            "silent_args": "/silent"
+        }
+    },
+    {
+        "name": "VLC Media Player",
+        "type": "app",
+        "category": "Media",
+        "source": {
+            "type": "Link",
+            "value": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Discord",
+        "type": "app",
+        "category": "Messaging",
+        "source": {
+            "type": "Link",
+            "value": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Microsoft Teams",
+        "type": "app",
+        "category": "Messaging",
+        "source": {
+            "type": "Link",
+            "value": "https://statics.teams.cdn.office.net/evergreen-assets/DesktopClient/MSTeamsSetup.exe",
+            "silent_args": "-s"
+        }
+    },
+    {
+        "name": "Zoom (x64)",
+        "type": "app",
+        "category": "Messaging",
+        "source": {
+            "type": "Link",
+            "value": "https://zoom.us/client/6.5.3.7509/ZoomInstallerFull.exe?archType=x64",
+            "silent_args": "/quiet"
+        }
+    },
+    {
+        "name": "AVG AntiVirus Free",
+        "type": "app",
+        "category": "Security",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Security/avg_antivirus_free_setup.exe",
+            "silent_args": "/verysilent /norestart"
+        }
+    },
+    {
+        "name": "Avast Free Antivirus",
+        "type": "app",
+        "category": "Security",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Security/Avast_Free_Antivirus.exe",
+            "silent_args": "/verysilent /norestart"
+        }
+    },
+    {
+        "name": "AnyDesk",
+        "type": "app",
+        "category": "Utilities",
+        "source": {
+            "type": "Link",
+            "value": "https://download.anydesk.com/AnyDesk.exe",
+            "silent_args": "--silent"
+        }
+    },
+    {
+        "name": "CCleaner",
+        "type": "app",
+        "category": "Utilities",
+        "source": {
+            "type": "Link",
+            "value": "https://pixeldrain.com/api/file/4Qh4MnGs?download",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Net Time",
+        "type": "app",
+        "category": "Utilities",
+        "source": {
+            "type": "Link",
+            "value": "https://timesynctool.com/NetTimeSetup-314.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "TeamViewer",
+        "type": "app",
+        "category": "Utilities",
+        "source": {
+            "type": "Link",
+            "value": "https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "TeamViewer QuickSupport",
+        "type": "app",
+        "category": "Utilities",
+        "source": {
+            "type": "Link",
+            "value": "https://download.teamviewer.com/download/TeamViewerQS_x64.exe",
+            "silent_args": ""
+        }
+    },
+    {
         "name": "Visual C++ Redistributable 2005_x64",
         "type": "app",
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://pixeldrain.com/api/file/h1YASnbn?download",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -335,7 +285,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://pixeldrain.com/api/file/zaKjuNAK?download",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x86.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -345,47 +295,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://pixeldrain.com/api/file/VMN6pQzf?download",
-            "silent_args": "/passive /norestart"
-        }
-    },
-    {
-        "name": "Visual C++ Redistributable 2010_x64",
-        "type": "app",
-        "category": "VC++ Redistributables",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/aA2MbuJG?download",
-            "silent_args": "/passive /norestart"
-        }
-    },
-    {
-        "name": "Visual C++ Redistributable 2012_x64",
-        "type": "app",
-        "category": "VC++ Redistributables",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/vg5h8XNY?download",
-            "silent_args": "/passive /norestart"
-        }
-    },
-    {
-        "name": "Visual C++ Redistributable 2013_x64",
-        "type": "app",
-        "category": "VC++ Redistributables",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/xuerpvpj?download",
-            "silent_args": "/passive /norestart"
-        }
-    },
-    {
-        "name": "Visual C++ Redistributable 2015-2022_x64",
-        "type": "app",
-        "category": "VC++ Redistributables",
-        "source": {
-            "type": "Link",
-            "value": "https://pixeldrain.com/api/file/cQ3hZavS?download",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -395,7 +305,17 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://pixeldrain.com/api/file/VCqAovFp?download",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x86.exe",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2010_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -405,7 +325,17 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://pixeldrain.com/api/file/G9yDZQT7?download",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x86.exe",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2012_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -415,16 +345,37 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://pixeldrain.com/api/file/7WS277vt?download",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x86.exe",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2013_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
     {
         "name": "Visual C++ Redistributable 2013_x32",
-        "type": "app", "category": "VC++ Redistributables", 
-        "source": { 
-            "type": "Link", 
-            "value": "https://pixeldrain.com/api/file/dgZJudh7?download", 
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x86.exe",
+            "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Visual C++ Redistributable 2015-2022_x64",
+        "type": "app",
+        "category": "VC++ Redistributables",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -434,8 +385,58 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://pixeldrain.com/api/file/5R7x8Azy?download",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x86.exe",
             "silent_args": "/passive /norestart"
+        }
+    },
+    {
+        "name": "Brave Browser",
+        "type": "app",
+        "category": "Web Browsers",
+        "source": {
+            "type": "Link",
+            "value": "https://referrals.brave.com/latest/BraveBrowserSetup-BRV011.exe",
+            "silent_args": "--silent"
+        }
+    },
+    {
+        "name": "Firefox",
+        "type": "app",
+        "category": "Web Browsers",
+        "source": {
+            "type": "Link",
+            "value": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0.2/win32/vi/Firefox%20Installer.exe",
+            "silent_args": "-ms"
+        }
+    },
+    {
+        "name": "Google Chrome (x64)",
+        "type": "app",
+        "category": "Web Browsers",
+        "source": {
+            "type": "Link",
+            "value": "https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi",
+            "silent_args": "/silent /install"
+        }
+    },
+    {
+        "name": "Microsoft Edge",
+        "type": "app",
+        "category": "Web Browsers",
+        "source": {
+            "type": "Link",
+            "value": "https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=vi&brand=M100",
+            "silent_args": "/silent /install"
+        }
+    },
+    {
+        "name": "Opera Browser",
+        "type": "app",
+        "category": "Web Browsers",
+        "source": {
+            "type": "Link",
+            "value": "https://net.geo.opera.com/opera/stable/windows",
+            "silent_args": "--silent"
         }
     }
 ]
