@@ -165,7 +165,7 @@
         "category": "Media",
         "source": {
             "type": "Link",
-            "value": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+            "value": "https://mirror.kku.ac.th/videolan/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
             "silent_args": "/S"
         }
     },
