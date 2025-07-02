@@ -266,7 +266,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x64.exe",
-            "silent_args": "/quiet /norestart"
+            "silent_args": "/q"
         }
     },
     {
@@ -276,7 +276,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x86.exe",
-            "silent_args": "/quiet /norestart"
+            "silent_args": "/q"
         }
     },
     {
@@ -286,7 +286,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x64.exe",
-            "silent_args": "/quiet /norestart"
+            "silent_args": "/qb"
         }
     },
     {
@@ -296,7 +296,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x86.exe",
-            "silent_args": "/quiet /norestart"
+            "silent_args": "/qb"
         }
     },
     {
