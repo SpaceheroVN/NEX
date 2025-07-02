@@ -236,7 +236,7 @@
         "source": {
             "type": "Link",
             "value": "https://timesynctool.com/NetTimeSetup-314.exe",
-            "silent_args": "/S"
+            "silent_args": "/VERYSILENT"
         }
     },
     {
