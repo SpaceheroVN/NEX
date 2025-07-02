@@ -25,7 +25,7 @@
         "category": "Compression",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Compression/7z2409-x64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Compression/7z2409-x64.exe",
             "silent_args": "/S"
         }
     },
@@ -35,7 +35,7 @@
         "category": "Compression",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Compression/peazip-10.5.0.WIN64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Compression/peazip-10.5.0.WIN64.exe",
             "silent_args": "/VERYSILENT"
         }
     },
@@ -45,7 +45,7 @@
         "category": "Compression",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Compression/winrar-x64-712.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Compression/winrar-x64-712.exe",
             "silent_args": "/S"
         }
     },
@@ -85,7 +85,7 @@
         "category": "Games",
         "source": {
             "type": "Link",
-            "value": "https://cdn.gxx.garenanow.com/gxx/pc/installer/Garena-v2.0.exe",
+            "value": "https://cdn.gxx.garenanow.com/gxx/pc/NEX/Garena-v2.0.exe",
             "silent_args": "/S"
         }
     },
@@ -95,7 +95,7 @@
         "category": "Games",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Games/Lunar%20Client%20-%20Installer.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Games/Lunar%20Client%20-%20NEX.exe",
             "silent_args": ""
         }
     },
@@ -115,7 +115,7 @@
         "category": "Games",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Games/miniworld_universal_1.2.0_410.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Games/miniworld_universal_1.2.0_410.exe",
             "silent_args": ""
         }
     },
@@ -125,7 +125,7 @@
         "category": "Media",
         "source": {
             "type": "Link",
-            "value": "https://muse-cdn.com/Audacity_Installer_via_MuseHub.exe",
+            "value": "https://muse-cdn.com/Audacity_NEX_via_MuseHub.exe",
             "silent_args": "/VERYSILENT /NORESTART"
         }
     },
@@ -145,7 +145,7 @@
         "category": "Media",
         "source": {
             "type": "Link",
-            "value": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0.3-Windows-Installer.exe",
+            "value": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0.3-Windows-NEX.exe",
             "silent_args": "/S"
         }
     },
@@ -175,7 +175,7 @@
         "category": "Messaging",
         "source": {
             "type": "Link",
-            "value": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+            "value": "https://discord.com/api/downloads/distributions/app/NEXs/latest?channel=stable&platform=win&arch=x64",
             "silent_args": "/S"
         }
     },
@@ -195,7 +195,7 @@
         "category": "Messaging",
         "source": {
             "type": "Link",
-            "value": "https://zoom.us/client/6.5.3.7509/ZoomInstallerFull.exe?archType=x64",
+            "value": "https://zoom.us/client/6.5.3.7509/ZoomNEXFull.exe?archType=x64",
             "silent_args": "/quiet"
         }
     },
@@ -205,7 +205,7 @@
         "category": "Security",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Security/avg_antivirus_free_setup.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Security/avg_antivirus_free_setup.exe",
             "silent_args": "/verysilent /norestart"
         }
     },
@@ -215,7 +215,7 @@
         "category": "Security",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Security/Avast_Free_Antivirus.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Security/Avast_Free_Antivirus.exe",
             "silent_args": "/verysilent /norestart"
         }
     },
@@ -265,7 +265,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x64.exe",
             "silent_args": "/q"
         }
     },
@@ -275,7 +275,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x86.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x86.exe",
             "silent_args": "/q"
         }
     },
@@ -285,7 +285,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x64.exe",
             "silent_args": "/qb"
         }
     },
@@ -295,7 +295,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x86.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x86.exe",
             "silent_args": "/qb"
         }
     },
@@ -305,7 +305,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x64.exe",
             "silent_args": "/quiet /norestart"
         }
     },
@@ -315,7 +315,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x86.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x86.exe",
             "silent_args": "/quiet /norestart"
         }
     },
@@ -325,7 +325,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -335,7 +335,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x86.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x86.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -345,7 +345,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -355,7 +355,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x86.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x86.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -365,7 +365,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x64.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -375,7 +375,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x86.exe",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x86.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -395,7 +395,7 @@
         "category": "Web Browsers",
         "source": {
             "type": "Link",
-            "value": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0.2/win32/vi/Firefox%20Installer.exe",
+            "value": "https://download-NEX.cdn.mozilla.net/pub/firefox/releases/140.0.2/win32/vi/Firefox%20NEX.exe",
             "silent_args": "-ms"
         }
     },
