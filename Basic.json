@@ -266,7 +266,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x64.exe",
-            "silent_args": "/passive /norestart"
+            "silent_args": "/quiet /norestart"
         }
     },
     {
@@ -276,7 +276,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x86.exe",
-            "silent_args": "/passive /norestart"
+            "silent_args": "/quiet /norestart"
         }
     },
     {
@@ -286,7 +286,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x64.exe",
-            "silent_args": "/passive /norestart"
+            "silent_args": "/quiet /norestart"
         }
     },
     {
@@ -296,7 +296,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x86.exe",
-            "silent_args": "/passive /norestart"
+            "silent_args": "/quiet /norestart"
         }
     },
     {
@@ -306,7 +306,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x64.exe",
-            "silent_args": "/passive /norestart"
+            "silent_args": "/quiet /norestart"
         }
     },
     {
@@ -316,7 +316,7 @@
         "source": {
             "type": "Link",
             "value": "https://raw.githubusercontent.com/SpaceheroVN/Installer/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x86.exe",
-            "silent_args": "/passive /norestart"
+            "silent_args": "/quiet /norestart"
         }
     },
     {
