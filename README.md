@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <pre style="text-align: center;">
+<p align="center">
+  <pre>
     +--------------------------+
     |███╗   ██╗███████╗██╗  ██╗|
     |████╗  ██║██╔════╝╚██╗██╔╝|
@@ -9,7 +9,7 @@
     |╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝|
     +--------------------------+
   </pre>
-</div>
+</p>
 
 # 🔧 Simple Apps (:
 ## Sometimes even software needs to catch its breath.
