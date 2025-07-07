@@ -1,122 +1,52 @@
 [
     {
-        "name": ".NET 5.0 (x64)",
+        "name": "Brave Browser",
         "type": "app",
-        "category": ".NET",
+        "category": "Web Browsers",
         "source": {
             "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/5.0.408/dotnet-sdk-5.0.408-win-x64.exe",
-            "silent_args": "/quiet /norestart"
+            "value": "https://laptop-updates.brave.com/latest/BraveBrowserSetup.exe",
+            "silent_args": "--silent"
         }
     },
     {
-        "name": ".NET 5.0 (x86)",
+        "name": "Firefox",
         "type": "app",
-        "category": ".NET",
+        "category": "Web Browsers",
         "source": {
             "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/5.0.408/dotnet-sdk-5.0.408-win-x86.exe",
-            "silent_args": "/quiet /norestart"
+            "value": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=vi",
+            "silent_args": "-ms"
         }
     },
     {
-        "name": ".NET 6.0 (x64)",
+        "name": "Google Chrome (x64)",
         "type": "app",
-        "category": ".NET",
+        "category": "Web Browsers",
         "source": {
             "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x64.exe",
-            "silent_args": "/quiet /norestart"
+            "value": "https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi",
+            "silent_args": "/silent /install"
         }
     },
     {
-        "name": ".NET 6.0 (x86)",
+        "name": "Microsoft Edge",
         "type": "app",
-        "category": ".NET",
+        "category": "Web Browsers",
         "source": {
             "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x86.exe",
-            "silent_args": "/quiet /norestart"
-        }
-    },
-        {
-        "name": ".NET 7.0 (x64)",
-        "type": "app",
-        "category": ".NET",
-        "source": {
-            "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/7.0.410/dotnet-sdk-7.0.410-win-x64.exe",
-            "silent_args": "/quiet /norestart"
+            "value": "https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=vi&brand=M100",
+            "silent_args": "/silent /install"
         }
     },
     {
-        "name": ".NET 7.0 (x86)",
+        "name": "Opera Browser",
         "type": "app",
-        "category": ".NET",
+        "category": "Web Browsers",
         "source": {
             "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/7.0.410/dotnet-sdk-7.0.410-win-x86.exe",
-            "silent_args": "/quiet /norestart"
-        }
-    },
-        {
-        "name": ".NET 8.0 (x64)",
-        "type": "app",
-        "category": ".NET",
-        "source": {
-            "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.411/dotnet-sdk-8.0.411-win-x64.exe",
-            "silent_args": "/quiet /norestart"
-        }
-    },
-    {
-        "name": ".NET 8.0 (x86)",
-        "type": "app",
-        "category": ".NET",
-        "source": {
-            "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.411/dotnet-sdk-8.0.411-win-x86.exe",
-            "silent_args": "/quiet /norestart"
-        }
-    },
-        {
-        "name": ".NET 9.0 (x64)",
-        "type": "app",
-        "category": ".NET",
-        "source": {
-            "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x64.exe",
-            "silent_args": "/quiet /norestart"
-        }
-    },
-    {
-        "name": ".NET 9.0 (x86)",
-        "type": "app",
-        "category": ".NET",
-        "source": {
-            "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x86.exe",
-            "silent_args": "/quiet /norestart"
-        }
-    },
-        {
-        "name": ".NET 10.0 Preview (x64)",
-        "type": "app",
-        "category": ".NET",
-        "source": {
-            "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-win-x64.exe",
-            "silent_args": "/quiet /norestart"
-        }
-    },
-    {
-        "name": ".NET 10.0 Preview (x86)",
-        "type": "app",
-        "category": ".NET",
-        "source": {
-            "type": "Link",
-            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-win-x86.exe",
-            "silent_args": "/quiet /norestart"
+            "value": "https://net.geo.opera.com/opera/stable/windows",
+            "silent_args": "--silent"
         }
     },
     {
@@ -180,43 +110,33 @@
         }
     },
     {
-        "name": "Garena",
+        "name": "Discord",
         "type": "app",
-        "category": "Games",
+        "category": "Messaging",
         "source": {
             "type": "Link",
-            "value": "https://cdn.gxx.garenanow.com/gxx/pc/NEX/Garena-v2.0.exe",
+            "value": "https://discord.com/api/downloads/distributions/app/install/latest?channel=stable&platform=win&arch=x64",
             "silent_args": "/S"
         }
     },
     {
-        "name": "Lunar Client",
-        "type": "game",
-        "category": "Games",
+        "name": "Microsoft Teams",
+        "type": "app",
+        "category": "Messaging",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Games/Lunar%20Client%20-%20NEX.exe",
-            "silent_args": ""
+            "value": "https://statics.teams.cdn.office.net/evergreen-assets/DesktopClient/MSTeamsSetup.exe",
+            "silent_args": "-s"
         }
     },
     {
-        "name": "Mini World",
-        "type": "game",
-        "category": "Games",
+        "name": "Zoom (x64)",
+        "type": "app",
+        "category": "Messaging",
         "source": {
             "type": "Link",
-            "value": "https://mwu-cdn2.miniworldgame.com/install/1/410/miniworld_universal_1.2.0_410.exe",
-            "silent_args": ""
-        }
-    },
-    {
-        "name": "Valorant",
-        "type": "game",
-        "category": "Games",
-        "source": {
-            "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Games/miniworld_universal_1.2.0_410.exe",
-            "silent_args": ""
+            "value": "https://zoom.us/client/latest/ZoomInstaller.exe",
+            "silent_args": "/quiet"
         }
     },
     {
@@ -267,36 +187,6 @@
             "type": "Link",
             "value": "https://mirror.kku.ac.th/videolan/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
             "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Discord",
-        "type": "app",
-        "category": "Messaging",
-        "source": {
-            "type": "Link",
-            "value": "https://discord.com/api/downloads/distributions/app/NEXs/latest?channel=stable&platform=win&arch=x64",
-            "silent_args": "/S"
-        }
-    },
-    {
-        "name": "Microsoft Teams",
-        "type": "app",
-        "category": "Messaging",
-        "source": {
-            "type": "Link",
-            "value": "https://statics.teams.cdn.office.net/evergreen-assets/DesktopClient/MSTeamsSetup.exe",
-            "silent_args": "-s"
-        }
-    },
-    {
-        "name": "Zoom (x64)",
-        "type": "app",
-        "category": "Messaging",
-        "source": {
-            "type": "Link",
-            "value": "https://zoom.us/client/6.5.3.7509/ZoomNEXFull.exe?archType=x64",
-            "silent_args": "/quiet"
         }
     },
     {
@@ -480,53 +370,163 @@
         }
     },
     {
-        "name": "Brave Browser",
+        "name": ".NET 5.0 (x64)",
         "type": "app",
-        "category": "Web Browsers",
+        "category": ".NET",
         "source": {
             "type": "Link",
-            "value": "https://referrals.brave.com/latest/BraveBrowserSetup-BRV011.exe",
-            "silent_args": "--silent"
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/5.0.408/dotnet-sdk-5.0.408-win-x64.exe",
+            "silent_args": "/quiet /norestart"
         }
     },
     {
-        "name": "Firefox",
+        "name": ".NET 5.0 (x86)",
         "type": "app",
-        "category": "Web Browsers",
+        "category": ".NET",
         "source": {
             "type": "Link",
-            "value": "https://download-NEX.cdn.mozilla.net/pub/firefox/releases/140.0.2/win32/vi/Firefox%20NEX.exe",
-            "silent_args": "-ms"
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/5.0.408/dotnet-sdk-5.0.408-win-x86.exe",
+            "silent_args": "/quiet /norestart"
         }
     },
     {
-        "name": "Google Chrome (x64)",
+        "name": ".NET 6.0 (x64)",
         "type": "app",
-        "category": "Web Browsers",
+        "category": ".NET",
         "source": {
             "type": "Link",
-            "value": "https://dl.google.com/chrome/install/GoogleChromeStandaloneEnterprise64.msi",
-            "silent_args": "/silent /install"
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x64.exe",
+            "silent_args": "/quiet /norestart"
         }
     },
     {
-        "name": "Microsoft Edge",
+        "name": ".NET 6.0 (x86)",
         "type": "app",
-        "category": "Web Browsers",
+        "category": ".NET",
         "source": {
             "type": "Link",
-            "value": "https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=vi&brand=M100",
-            "silent_args": "/silent /install"
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x86.exe",
+            "silent_args": "/quiet /norestart"
         }
     },
     {
-        "name": "Opera Browser",
+        "name": ".NET 7.0 (x64)",
         "type": "app",
-        "category": "Web Browsers",
+        "category": ".NET",
         "source": {
             "type": "Link",
-            "value": "https://net.geo.opera.com/opera/stable/windows",
-            "silent_args": "--silent"
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/7.0.410/dotnet-sdk-7.0.410-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 7.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/7.0.410/dotnet-sdk-7.0.410-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 8.0 (x64)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.411/dotnet-sdk-8.0.411-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 8.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.411/dotnet-sdk-8.0.411-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 9.0 (x64)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 9.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 10.0 Preview (x64)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 10.0 Preview (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": "Garena",
+        "type": "app",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://cdn.gxx.garenanow.com/gxx/pc/NEX/Garena-v2.0.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
+        "name": "Lunar Client",
+        "type": "game",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Games/Lunar%20Client%20-%20NEX.exe",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Mini World",
+        "type": "game",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://mwu-cdn2.miniworldgame.com/install/1/410/miniworld_universal_1.2.0_410.exe",
+            "silent_args": ""
+        }
+    },
+    {
+        "name": "Valorant",
+        "type": "game",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.exe",
+            "silent_args": ""
         }
     }
 ]
