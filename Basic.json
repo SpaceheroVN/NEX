@@ -1,6 +1,66 @@
 [
     {
-        "name": ".NET Desktop Runtime 8",
+        "name": ".NET 5.0 (x64)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/5.0.408/dotnet-sdk-5.0.408-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 5.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/5.0.408/dotnet-sdk-5.0.408-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 6.0 (x64)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 6.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+        {
+        "name": ".NET 7.0 (x64)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/7.0.410/dotnet-sdk-7.0.410-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 7.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/7.0.410/dotnet-sdk-7.0.410-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+        {
+        "name": ".NET 8.0 (x64)",
         "type": "app",
         "category": ".NET",
         "source": {
@@ -10,12 +70,52 @@
         }
     },
     {
-        "name": ".NET Desktop Runtime 9 Preview",
+        "name": ".NET 8.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.411/dotnet-sdk-8.0.411-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+        {
+        "name": ".NET 9.0 (x64)",
         "type": "app",
         "category": ".NET",
         "source": {
             "type": "Link",
             "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 9.0 (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x86.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+        {
+        "name": ".NET 10.0 Preview (x64)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-win-x64.exe",
+            "silent_args": "/quiet /norestart"
+        }
+    },
+    {
+        "name": ".NET 10.0 Preview (x86)",
+        "type": "app",
+        "category": ".NET",
+        "source": {
+            "type": "Link",
+            "value": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-win-x86.exe",
             "silent_args": "/quiet /norestart"
         }
     },
