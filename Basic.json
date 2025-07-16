@@ -255,7 +255,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x64.exe",
+            "value": "https://download.microsoft.com/download/8/b/4/8b42259f-5d70-43f4-ac2e-4b208fd8d66a/vcredist_x64.EXE",
             "silent_args": "/q"
         }
     },
@@ -265,7 +265,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2005_x86.exe",
+            "value": "https://download.microsoft.com/download/8/b/4/8b42259f-5d70-43f4-ac2e-4b208fd8d66a/vcredist_x86.EXE",
             "silent_args": "/q"
         }
     },
@@ -275,7 +275,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x64.exe",
+            "value": "https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe",
             "silent_args": "/qb"
         }
     },
@@ -285,7 +285,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2008_x86.exe",
+            "value": "https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x86.exe",
             "silent_args": "/qb"
         }
     },
@@ -295,7 +295,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x64.exe",
+            "value": "https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe",
             "silent_args": "/quiet /norestart"
         }
     },
@@ -305,7 +305,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2010_x86.exe",
+            "value": "https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe",
             "silent_args": "/quiet /norestart"
         }
     },
@@ -315,7 +315,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x64.exe",
+            "value": "https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -325,7 +325,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2012_x86.exe",
+            "value": "https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -335,7 +335,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x64.exe",
+            "value": "https://aka.ms/highdpimfc2013x64enu",
             "silent_args": "/passive /norestart"
         }
     },
@@ -345,7 +345,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2013_x86.exe",
+            "value": "https://aka.ms/highdpimfc2013x86enu",
             "silent_args": "/passive /norestart"
         }
     },
@@ -355,7 +355,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x64.exe",
+            "value": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
             "silent_args": "/passive /norestart"
         }
     },
@@ -365,7 +365,7 @@
         "category": "VC++ Redistributables",
         "source": {
             "type": "Link",
-            "value": "https://raw.githubusercontent.com/SpaceheroVN/NEX/main/Basic/Visual%20C%2B%2B%20Redistributable/vcredist2015_2017_2019_2022_x86.exe",
+            "value": "https://aka.ms/vs/17/release/vc_redist.x86.exe",
             "silent_args": "/passive /norestart"
         }
     },
