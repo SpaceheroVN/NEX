@@ -500,6 +500,16 @@
         }
     },
     {
+        "name": "GeForce NOW",
+        "type": "app",
+        "category": "Games",
+        "source": {
+            "type": "Link",
+            "value": "https://download.nvidia.com/gfnpc/GeForceNOW-release.exe",
+            "silent_args": "/S"
+        }
+    },
+    {
         "name": "Lunar Client",
         "type": "game",
         "category": "Games",
